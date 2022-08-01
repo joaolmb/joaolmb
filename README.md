@@ -1,6 +1,6 @@
 ### Oi, eu sou o João 👋😄
 
-- 🌱 Estudante de JAVA no Bootcamp da Generation!
+- 🌱 Dev JAVA Fullstack
 
 <div align="center">
   <a href="https://github.com/joaolmb">
