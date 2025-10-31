@@ -1,7 +1,5 @@
 ### Oi, eu sou o João 👋😄
 
-- 🌱 Dev JAVA Fullstack
-
 <div align="center">
   <a href="https://github.com/joaolmb">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaolmb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
